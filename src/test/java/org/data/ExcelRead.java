@@ -22,6 +22,10 @@ public static void main(String[] args) throws IOException {
 	String stringCellValue = cell.getStringCellValue();
 	System.out.println(stringCellValue);
 	System.out.println("RAJA");
+	System.out.println("KUIL");
+
+	
+
 }
 
 }
